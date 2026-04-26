@@ -7,4 +7,5 @@ id_list = tokenizer.convert_tokens_to_ids(token_list)
 
 print(token_list)
 print(id_list)
+print(tokenizer.vocab_size)
 
